@@ -1,4 +1,4 @@
-package com.mycompany.api;
+package com.isol.api;
 
 import org.broadleafcommerce.core.web.api.BroadleafSpringRestExceptionMapper;
 import org.springframework.web.bind.annotation.ControllerAdvice;

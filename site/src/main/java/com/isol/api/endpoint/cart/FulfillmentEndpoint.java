@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.mycompany.api.endpoint.cart;
+package com.isol.api.endpoint.cart;
 
 import org.broadleafcommerce.core.web.api.wrapper.FulfillmentGroupItemWrapper;
 import org.broadleafcommerce.core.web.api.wrapper.FulfillmentGroupWrapper;
@@ -27,9 +27,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.util.List;
-
 import javax.servlet.http.HttpServletRequest;
+import java.util.List;
 
 /**
  * This is a reference REST API endpoint for fulfillment groups. This can be modified, used as is, or removed. 

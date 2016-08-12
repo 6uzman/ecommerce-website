@@ -1,4 +1,4 @@
-package com.mycompany.controller.seo;
+package com.isol.controller.seo;
 
 import org.broadleafcommerce.common.sitemap.controller.BroadleafSiteMapController;
 import org.springframework.core.io.FileSystemResource;

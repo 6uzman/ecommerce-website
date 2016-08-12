@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.mycompany.controller.content;
+package com.isol.controller.content;
 
 import org.broadleafcommerce.cms.web.controller.BroadleafPageController;
 import org.springframework.stereotype.Controller;

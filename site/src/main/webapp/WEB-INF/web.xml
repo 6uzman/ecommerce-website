@@ -127,7 +127,7 @@
         <init-param>
             <param-name>contextConfigLocation</param-name>
             <param-value>
-                com.mycompany.api.RestApiMvcConfiguration
+                com.isol.api.RestApiMvcConfiguration
             </param-value>
         </init-param>
         <init-param>

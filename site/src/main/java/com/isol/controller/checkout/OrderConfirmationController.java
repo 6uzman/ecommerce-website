@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.mycompany.controller.checkout;
+package com.isol.controller.checkout;
 
 import org.broadleafcommerce.core.web.controller.checkout.BroadleafOrderConfirmationController;
 import org.springframework.stereotype.Controller;

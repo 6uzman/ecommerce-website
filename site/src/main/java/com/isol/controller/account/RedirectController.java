@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.mycompany.controller.account;
+package com.isol.controller.account;
 
 import org.broadleafcommerce.common.web.controller.BroadleafRedirectController;
 import org.broadleafcommerce.common.web.security.BroadleafAuthenticationSuccessRedirectStrategy;

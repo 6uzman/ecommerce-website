@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.mycompany.controller.account;
+package com.isol.controller.account;
 
 import org.broadleafcommerce.common.exception.ServiceException;
 import org.broadleafcommerce.core.web.controller.account.BroadleafManageCustomerAddressesController;

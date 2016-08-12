@@ -14,7 +14,7 @@
     <properties>
         <!-- httpsPort and httpPort are used by embedded Tomcat server.-->
         <httpsPort>8443</httpsPort> 
-        <httpPort>8080</httpPort>
+        <httpPort>8082</httpPort>
         <path>/</path>
     </properties>
     <build>

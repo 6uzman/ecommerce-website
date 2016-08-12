@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.mycompany.api.endpoint.cart;
+package com.isol.api.endpoint.cart;
 
 import org.broadleafcommerce.core.web.api.wrapper.OrderWrapper;
 import org.springframework.http.MediaType;

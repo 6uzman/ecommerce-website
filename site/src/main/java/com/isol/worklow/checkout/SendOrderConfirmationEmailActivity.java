@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.mycompany.worklow.checkout;
+package com.isol.worklow.checkout;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;

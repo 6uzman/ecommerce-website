@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.mycompany.controller.checkout;
+package com.isol.controller.checkout;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;

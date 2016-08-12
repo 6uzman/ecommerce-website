@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.mycompany.controller.checkout;
+package com.isol.controller.checkout;
 
 import org.broadleafcommerce.common.exception.ServiceException;
 import org.broadleafcommerce.core.pricing.service.exception.PricingException;

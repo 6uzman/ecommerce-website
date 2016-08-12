@@ -1,4 +1,4 @@
-package com.mycompany.controller.seo;
+package com.isol.controller.seo;
 
 import org.broadleafcommerce.cms.web.controller.BroadleafRobotsController;
 import org.springframework.stereotype.Controller;

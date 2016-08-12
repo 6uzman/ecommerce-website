@@ -1,4 +1,4 @@
-package com.mycompany.api;
+package com.isol.api;
 
 import org.broadleafcommerce.core.web.api.BroadleafRestApiMvcConfiguration;
 import org.springframework.context.annotation.ComponentScan;
@@ -8,7 +8,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan("com.mycompany.api")
+@ComponentScan("com.isol.api")
 public class RestApiMvcConfiguration extends BroadleafRestApiMvcConfiguration {
     
 }

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.mycompany.controller.account;
+package com.isol.controller.account;
 
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;

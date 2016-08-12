@@ -14,19 +14,9 @@
  * limitations under the License.
  */
 
-package com.mycompany.api.endpoint.catalog;
+package com.isol.api.endpoint.catalog;
 
-import org.broadleafcommerce.core.web.api.wrapper.CategoriesWrapper;
-import org.broadleafcommerce.core.web.api.wrapper.CategoryAttributeWrapper;
-import org.broadleafcommerce.core.web.api.wrapper.CategoryWrapper;
-import org.broadleafcommerce.core.web.api.wrapper.InventoryWrapper;
-import org.broadleafcommerce.core.web.api.wrapper.MediaWrapper;
-import org.broadleafcommerce.core.web.api.wrapper.ProductAttributeWrapper;
-import org.broadleafcommerce.core.web.api.wrapper.ProductWrapper;
-import org.broadleafcommerce.core.web.api.wrapper.RelatedProductWrapper;
-import org.broadleafcommerce.core.web.api.wrapper.SearchResultsWrapper;
-import org.broadleafcommerce.core.web.api.wrapper.SkuAttributeWrapper;
-import org.broadleafcommerce.core.web.api.wrapper.SkuWrapper;
+import org.broadleafcommerce.core.web.api.wrapper.*;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -34,9 +24,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.util.List;
-
 import javax.servlet.http.HttpServletRequest;
+import java.util.List;
 
 /**
  * This is a reference REST API endpoint for catalog. This can be modified, used as is, or removed. 

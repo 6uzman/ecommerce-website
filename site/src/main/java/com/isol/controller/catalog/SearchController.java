@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.mycompany.controller.catalog;
+package com.isol.controller.catalog;
 
 import org.broadleafcommerce.common.exception.ServiceException;
 import org.broadleafcommerce.core.web.controller.catalog.BroadleafSearchController;

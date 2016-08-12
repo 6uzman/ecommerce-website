@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.mycompany.api.endpoint.cart;
+package com.isol.api.endpoint.cart;
 
 import org.broadleafcommerce.core.web.api.wrapper.OrderWrapper;
 import org.springframework.http.MediaType;
@@ -23,9 +23,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.util.List;
-
 import javax.servlet.http.HttpServletRequest;
+import java.util.List;
 
 /**
  * This is a reference REST API endpoint for order history. This can be modified, used as is, or removed. 

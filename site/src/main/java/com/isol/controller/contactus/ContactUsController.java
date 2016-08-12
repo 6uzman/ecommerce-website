@@ -1,4 +1,4 @@
-package com.mycompany.controller.contactus;
+package com.isol.controller.contactus;
 
 import java.util.HashMap;
 
